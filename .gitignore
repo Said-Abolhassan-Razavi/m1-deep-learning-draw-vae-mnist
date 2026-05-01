@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# MNIST raw data (large binary files — re-downloaded automatically)
+code/mnist_data/
+
+# Model checkpoints (large binary files)
+code/outputs/*.pt
+
+# Training curves (can be regenerated)
+code/outputs/*.npz
+
+# LaTeX build artifacts
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.blg
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/

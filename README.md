@@ -218,9 +218,9 @@ This project was completed as part of the **Deep Learning** course in the **M1 A
 
 | Name | Program |
 |---|---|
+| Said Abolhassan Razavi | M1 Artificial Intelligence - Universite Paris-Saclay |
 | Oliver Wakeford | M1 Artificial Intelligence - Universite Paris-Saclay |
 | Ahzam Afaq | M1 Artificial Intelligence - Universite Paris-Saclay |
-| Said Abolhassan Razavi | M1 Artificial Intelligence - Universite Paris-Saclay |
 
 ---
 

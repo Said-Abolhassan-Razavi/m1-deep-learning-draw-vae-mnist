@@ -20,7 +20,7 @@
 | **University** | Universite Paris-Saclay |
 | **Program** | Master 1 - Artificial Intelligence |
 | **Course** | Deep Learning |
-| **Year** | 2024-2025 |
+| **Year** | 2025-2026 |
 | **Assignment** | Mini-project: VAE / DRAW option |
 
 ---

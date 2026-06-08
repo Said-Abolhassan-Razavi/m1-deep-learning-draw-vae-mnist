@@ -1,0 +1,11 @@
+{
+  "model": "ddpm",
+  "metric": "mse_per_pixel",
+  "epochs": 50,
+  "params": 1605473,
+  "final_train_nelbo": 0.021202345858288243,
+  "final_test_nelbo": 0.02097052322626114,
+  "best_test_nelbo": 0.02097052322626114,
+  "mean_epoch_seconds": 27.15032621383667,
+  "device": "cuda"
+}
